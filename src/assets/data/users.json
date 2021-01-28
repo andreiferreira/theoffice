@@ -1,0 +1,25 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "name": "Creed",
+      "userName": "creed",
+      "email": "creed@creed.com",
+      "password": "creed"
+    },
+    {
+      "id": 2,
+      "name": "Michael Scott",
+      "userName": "michael",
+      "email": "michael@scott.com",
+      "password": "michael"
+    },
+    {
+      "id": 3,
+      "name":"Pam",
+      "userName": "pam",
+      "email": "pam@pam.com",
+      "password": "pam"
+    }
+  ]
+}
